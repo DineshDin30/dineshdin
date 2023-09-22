@@ -17,7 +17,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DineshDin30/Active-Directory-Configuration)
   - [Azure Virtual Machines Traffic Inspection](https://github.com/DineshDin30/Azure-Networks-and-Protocols)
-  - [Azure Active Directory Overview (User & Group Creation/Access Management Configuration)](https://github.com/dineshdin/Azure-AD-Overview)
+  - [Azure Active Directory Overview (User & Group Creation/Access Management Configuration)](https://github.com/DineshDin30/Azure-AD-Overview)
     
  
 
