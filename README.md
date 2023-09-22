@@ -2,7 +2,7 @@
 
 <h2>🤳 Connect with Me 
 
- -  <b>[LinkedIn](https://www.linkedin.com/in/louisperez1978/)
+ -  <b>[LinkedIn](https://www.linkedin.com/in/dinesh-kumar-j-2952b71b7/)
  <br />
  <br />
 
